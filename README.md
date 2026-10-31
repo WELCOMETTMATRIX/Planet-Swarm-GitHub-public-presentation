@@ -8,6 +8,7 @@
 [![Technology](https://img.shields.io/badge/Technology-AI%20%7C%203D%20%7C%20Real--Time-blueviolet)](https://planetswarm.vercel.app)
 
 🌐 **Live Platform:** https://planetswarm.vercel.app
+🌐 **Live Platform:**  https://planetswarm.lovable.app/
 
 ---
 
